@@ -1,4 +1,41 @@
 {
+  "_id": "Francia",
+  "Posición": "Primero°,
+  "Nombre": "Fabien Galthié",
+  "Nacionalidad":"Francia"
+}
+
+{
+  "_id": "Grupo A",
+  "___": "COD_PAIS|   Nombre DT    |COD_NOMBRE",
+  "001": "   FRA  |Fabien Galthié  |    FRA   ",
+  "002": "   NZL  |Ian Foster      |    NZL   ",
+  "003": "   ITA  |Kieran Crowley  |    NZL   ",
+  "004": "   URU  |Esteban Meneses |    ARG   ",
+  "005": "   NAM  |Allister Coetzee|    RSA   "
+}
+
+{
+  "_id": "Grupo A",
+  "___": "COD_PAIS|   Nombre DT    |COD_NOMBRE",
+  "001": "   FRA  |Fabien Galthié  |    FRA   ",
+  "002": "   NZL  |Ian Foster      |    NZL   ",
+  "003": "   ITA  |Kieran Crowley  |    NZL   ",
+  "004": "   URU  |Esteban Meneses |    ARG   ",
+  "005": "   NAM  |Allister Coetzee|    RSA   "
+}
+
+{
+  "_id": "Grupo A",
+  "___": "COD_PAIS|   Nombre DT    |COD_NOMBRE",
+  "001": "   FRA  |Fabien Galthié  |    FRA   ",
+  "002": "   NZL  |Ian Foster      |    NZL   ",
+  "003": "   ITA  |Kieran Crowley  |    NZL   ",
+  "004": "   URU  |Esteban Meneses |    ARG   ",
+  "005": "   NAM  |Allister Coetzee|    RSA   "
+}
+
+{
   "_id": "Grupo A",
   "___": "COD_PAIS|   Nombre DT    |COD_NOMBRE",
   "001": "   FRA  |Fabien Galthié  |    FRA   ",
