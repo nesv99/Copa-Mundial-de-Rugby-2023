@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "#01",
+    "Nombre": "Cliven Loubser",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#02",
+    "Nombre": "Andre van der Bergh",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#03",
+    "Nombre": "Tiaan Swanepoel",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#04",
+    "Nombre": "Divan Rossouw",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#05",
+    "Nombre": "Jacques Theron",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#06",
+    "Nombre": "Oela Blaauw",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#07",
+    "Nombre": "Helarius Kisting",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#08",
+    "Nombre": "Damian Stevens",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#09",
+    "Nombre": "Alcino Izaacs",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#10",
+    "Nombre": "Johan Deysel",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#11",
+    "Nombre": "Danco Burger",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#12",
+    "Nombre": "Lloyd Jacobs",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#13",
+    "Nombre": "Gerswin Mouton",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#14",
+    "Nombre": "JC Greyling",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#15",
+    "Nombre": "Obert Nortje",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#16",
+    "Nombre": "Torsten Van Jaarsveld",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#17",
+    "Nombre": "Louis van der Westhuizen",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#18",
+    "Nombre": "Adriaan Booysen",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#19",
+    "Nombre": "Richard Hardwick",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#20",
+    "Nombre": "Max Katjijeko",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#21",
+    "Nombre": "Johan Retief",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#22",
+    "Nombre": "Wian Conradie",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#23",
+    "Nombre": "Prince Gaoseb",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#24",
+    "Nombre": "Tiaan De Klerk",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#25",
+    "Nombre": "Tjiuee Uanivi",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#26",
+    "Nombre": "Adriaan Ludick",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#27",
+    "Nombre": "Mahepisa Tjeriko",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#28",
+    "Nombre": "Pieter-Jan Van Lill",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#29",
+    "Nombre": "Jason Benade",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#30",
+    "Nombre": "Casper Viviers",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#31",
+    "Nombre": "Johan Coetzee",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#32",
+    "Nombre": "Desiderius Sethie",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#33",
+    "Nombre": "Haitembu Shikufa",
+    "Posición": "FW"
+  }
+]

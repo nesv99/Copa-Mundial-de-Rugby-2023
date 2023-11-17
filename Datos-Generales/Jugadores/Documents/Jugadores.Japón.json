@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "#01",
+    "Nombre": "Rikiya Matsuda",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#02",
+    "Nombre": "Seungsin Lee",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#03",
+    "Nombre": "Jumpei Ogura",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#04",
+    "Nombre": "Ryohei Yamanaka",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#05",
+    "Nombre": "Kotaro Matsushima",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#06",
+    "Nombre": "Naoto Saito",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#07",
+    "Nombre": "Yutaka Nagare",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#08",
+    "Nombre": "Kenta Fukuda",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#09",
+    "Nombre": "Dylan Riley",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#10",
+    "Nombre": "Tomoki Osada",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#11",
+    "Nombre": "Ryoto Nakamura",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#12",
+    "Nombre": "Lomano Lemeki",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#13",
+    "Nombre": "Siosaia Fifita",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#14",
+    "Nombre": "Jone Naikabula",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#15",
+    "Nombre": "Shota Horie",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#16",
+    "Nombre": "Kosuke Horikoshi",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#17",
+    "Nombre": "Atsushi Sakate",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#18",
+    "Nombre": "Kazuki Himeno",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#19",
+    "Nombre": "Pieter Labuschagne",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#20",
+    "Nombre": "Ben Gunter",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#21",
+    "Nombre": "Michael Leitch",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#22",
+    "Nombre": "Shota Fukui",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#23",
+    "Nombre": "Kanji Shimokawa",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#24",
+    "Nombre": "Jack Cornelsen",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#25",
+    "Nombre": "Amato Fakatava",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#26",
+    "Nombre": "Amanaki Saumaki",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#27",
+    "Nombre": "Warner Dearns",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#28",
+    "Nombre": "Sione Halasili",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#29",
+    "Nombre": "Keita Inagaki",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#30",
+    "Nombre": "Shinnosuke Kakinaga",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#31",
+    "Nombre": "Asaeli Ai Valu",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#32",
+    "Nombre": "Craig Millar",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#33",
+    "Nombre": "Jiwon Gu",
+    "Posición": "FW"
+  }
+]

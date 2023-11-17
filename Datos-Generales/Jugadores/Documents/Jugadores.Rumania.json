@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "#01",
+    "Nombre": "Luca Nichitean",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#02",
+    "Nombre": "Tudor Boldor",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#03",
+    "Nombre": "Marius Simionescu",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#04",
+    "Nombre": "Alin Conache",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#05",
+    "Nombre": "Florin Surugiu",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#06",
+    "Nombre": "Gabriel Rupanu",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#07",
+    "Nombre": "Tevita Manumua",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#08",
+    "Nombre": "Mihai Graure",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#09",
+    "Nombre": "Jason Tomane",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#10",
+    "Nombre": "Alexandru Bucur",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#11",
+    "Nombre": "Nicholas Onutu",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#12",
+    "Nombre": "Sioeli Lama",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#13",
+    "Nombre": "Fonovai Tangimana",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#14",
+    "Nombre": "Taliauli Sikuea",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#15",
+    "Nombre": "Florin Bardasu",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#16",
+    "Nombre": "Ovidiu Cojocaru",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#17",
+    "Nombre": "Robert Irimescu",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#18",
+    "Nombre": "Andre Gorin",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#19",
+    "Nombre": "Damian Stratila",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#20",
+    "Nombre": "Cristian Chirica",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#21",
+    "Nombre": "Florian Rosu",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#22",
+    "Nombre": "Cristi Boboc",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#23",
+    "Nombre": "Vlad Neculau",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#24",
+    "Nombre": "Dragos Ser",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#25",
+    "Nombre": "Stefan Iancu",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#26",
+    "Nombre": "Adrian Motoc",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#27",
+    "Nombre": "Marius Iftimiciuc",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#28",
+    "Nombre": "Gheorghe Gajion",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#29",
+    "Nombre": "Alexandru Gordas",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#30",
+    "Nombre": "Costel Burtila",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#31",
+    "Nombre": "Thomas Cretu",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#32",
+    "Nombre": "Alexandru Savin",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#33",
+    "Nombre": "Iulian Hartig",
+    "Posición": "FW"
+  }
+]

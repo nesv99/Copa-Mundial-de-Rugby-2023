@@ -1,0 +1,30 @@
+{
+  "_id": "Más tries apoyados",
+  "Nombre": "Will Joradan",
+  "País":"Nueva Zelanda",
+  "Anotaciones": 8
+},
+{
+  "_id":"Más conversiones",
+  "Nombre":"Thomas Ramos",
+  "País":"Francia",
+  "Anotaciones": 21
+},
+{
+  "_id": "Corridas",
+  "Nombre": "Ardie Savea",
+  "País": "Nueva Zelanda",
+  "Valor": 82
+},
+{
+  "_id": "Más puntos anotados",
+  "Nombre": "Owen Frrell",
+  "País": "Inglaterra",
+  "Puntos": 75
+},
+{
+  "_id": "Pases en el contacto",
+  "Nombre": "Salesi Piutau",
+  "País": "Tonga",
+  "Puntos": 10
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "#01",
+    "Nombre": "Ross Byrne",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#02",
+    "Nombre": "Johnny Sexton",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#03",
+    "Nombre": "Jack Crowley",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#04",
+    "Nombre": "Hugo Keenan",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#05",
+    "Nombre": "Craig Casey",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#06",
+    "Nombre": "Conor Murray",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#07",
+    "Nombre": "Jamison Gibson-Park",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#08",
+    "Nombre": "Bundee Aki",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#09",
+    "Nombre": "Garry Ringrose",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#10",
+    "Nombre": "Stuart McCloskey",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#11",
+    "Nombre": "Robbie Henshaw",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#12",
+    "Nombre": "Jimmy O'Brien",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#13",
+    "Nombre": "Keith Earls",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#14",
+    "Nombre": "Mack Hansen",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#15",
+    "Nombre": "James Lowe",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#16",
+    "Nombre": "Ronan Kelleher",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#17",
+    "Nombre": "Dan Sheehan",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#18",
+    "Nombre": "Rob Herring",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#19",
+    "Nombre": "Jack Conan",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#20",
+    "Nombre": "Caelan Doris",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#21",
+    "Nombre": "Ryan Baird",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#22",
+    "Nombre": "Josh van der Flier",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#23",
+    "Nombre": "Peter O'Mahony",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#24",
+    "Nombre": "Tadhg Beirne",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#25",
+    "Nombre": "Iain Henderson",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#26",
+    "Nombre": "Joe McCarthy",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#27",
+    "Nombre": "James Ryan",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#28",
+    "Nombre": "Tadhg Furlong",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#29",
+    "Nombre": "Dave Kilcoyne",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#30",
+    "Nombre": "Jeremy Loughman",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#31",
+    "Nombre": "Tom O'Toole",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#32",
+    "Nombre": "Andrew Porter",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#33",
+    "Nombre": "Finlay Bealham",
+    "Posición": "FW"
+  }
+]

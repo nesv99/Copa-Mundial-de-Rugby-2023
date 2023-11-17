@@ -1,0 +1,30 @@
+{
+  "_id": "Inglaterra",
+  "Posición": "Primero",
+  "Nombre": "Steve Borthwick",
+  "País Coach": "Inglaterra"
+},
+{
+  "_id": "Australia",
+  "Posición": "Segundo",
+  "Nombre": "Michael Cheika",
+  "País Coach": "Australia"
+},
+{
+  "_id": "Japón",
+  "Posición": "Tercero",
+  "Nombre": "Jamie Joseph",
+  "País Coach": "Nueva Zelanda"
+},
+{
+  "_id": "Samoa",
+  "Posición": "Cuarto",
+  "Nombre": "Seilala Mapusua",
+  "País Coach": "Samoa"
+},
+{
+  "_id": "Chile",
+  "Posición": "Quinto",
+  "Nombre": "Pablo Lemoine",
+  "País Coach": "Uruguay"
+}

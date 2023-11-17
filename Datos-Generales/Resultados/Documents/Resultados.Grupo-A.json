@@ -1,0 +1,60 @@
+{
+  "_id": "Partido 1",
+    "Local": "Francia",
+    "Resultado": "27-13",
+    "Visitante": "Nueva Zelanda" 
+}
+{
+  "_id": "Partido 2",
+    "Local": "Italia",
+    "Resultado": "52-8",
+    "Visitante": "Namibia"
+}
+{
+  "_id": "Partido 3",
+    "Local": "Francia",
+    "Resultado": "27-12",
+    "Visitante": "Uruguay"
+}
+{
+  "_id": "Partido 4",
+    "Local": "Nueva Zelanda",
+    "Resultado": "71-3",
+    "Visitante": "Namibia"
+}
+{
+  "_id": "Partido 5",
+    "Local": "Italia",
+    "Resultado": "38-17",
+    "Visitante": "Uruguay"
+}
+{
+  "_id": "Partido 6",
+    "Local": "Francia",
+    "Resultado": "96-0",
+    "Visitante": "Namibia"
+}
+{
+  "_id": "Partido 7",
+    "Local": "Uruguay",
+    "Resultado": "36-26",
+    "Visitante": "Namibia"
+}
+{
+  "_id": "Partido 8",
+    "Local": "Nueva Zelanda",
+    "Resultado": "96-17",
+    "Visitante": "Italia"
+}
+{
+  "_id": "Partido 9",
+    "Local": "Nueva Zelanda",
+    "Resultado": "73-0",
+    "Visitante": "Uruguay"
+}
+{
+  "_id": "Partido 10",
+    "Local": "Francia",
+    "Resultado": "60-7",
+    "Visitante": "Italia"
+}

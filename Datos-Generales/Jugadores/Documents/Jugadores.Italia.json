@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "#01",
+    "Nombre": "Tommaso Allan",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#02",
+    "Nombre": "Giacomo Da Re",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#03",
+    "Nombre": "Paolo Garbisi",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#04",
+    "Nombre": "Ange Capuozzo",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#05",
+    "Nombre": "Stephen Varney",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#06",
+    "Nombre": "Alessandro Garbisi",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#07",
+    "Nombre": "Martin Page-Relo",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#08",
+    "Nombre": "Paolo Odogwu",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#09",
+    "Nombre": "Juan Ignacio Brex",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#10",
+    "Nombre": "Luca Morisi",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#11",
+    "Nombre": "Lorenzo Pani",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#12",
+    "Nombre": "Alessandro Fusco",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#13",
+    "Nombre": "Pierre Bruno",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#14",
+    "Nombre": "Montanna Ioane",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#15",
+    "Nombre": "Hame Faiva",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#16",
+    "Nombre": "Giacomo Nicotera",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#17",
+    "Nombre": "Marco Manfredi",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#18",
+    "Nombre": "Lorenzo Cannone",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#19",
+    "Nombre": "Toa Halafihi",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#20",
+    "Nombre": "Giovanni Pettinelli",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#21",
+    "Nombre": "Michele Lamaro",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#22",
+    "Nombre": "Manuel Zuliani",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#23",
+    "Nombre": "Sebastian Negri",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#24",
+    "Nombre": "Federico Ruzza",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#25",
+    "Nombre": "David Sisi",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#26",
+    "Nombre": "Niccolo Cannone",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#27",
+    "Nombre": "Dino Lamb",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#28",
+    "Nombre": "Federico Zani",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#29",
+    "Nombre": "Paolo Buofiglio",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#30",
+    "Nombre": "Simone Ferrari",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#31",
+    "Nombre": "Ivan Nemer",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#32",
+    "Nombre": "Pietro Ceccarelli",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#33",
+    "Nombre": "Marco Riccioni",
+    "Posición": "FW"
+  }
+]

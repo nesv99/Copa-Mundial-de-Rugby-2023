@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "#01",
+    "Nombre": "Jerónimo Portela",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#02",
+    "Nombre": "Joris Moura",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#03",
+    "Nombre": "Manuel Cardoso Pinto",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#04",
+    "Nombre": "Nuno Sousa Guedes",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#05",
+    "Nombre": "Pedro Lucas",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#06",
+    "Nombre": "João Belo",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#07",
+    "Nombre": "Samuel Marques",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#08",
+    "Nombre": "Pedro Bettencourt",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#09",
+    "Nombre": "José Lima",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#10",
+    "Nombre": "Tomás Appleton",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#11",
+    "Nombre": "Raffaele Storti",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#12",
+    "Nombre": "Rodrigo Marta",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#13",
+    "Nombre": "Vincent Pinto",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#14",
+    "Nombre": "Simão Bento",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#15",
+    "Nombre": "Mike Tadjer",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#16",
+    "Nombre": "Duarte Diniz",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#17",
+    "Nombre": "Lionel Campergue",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#18",
+    "Nombre": "Thibault de Freitas",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#19",
+    "Nombre": "João Granate",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#20",
+    "Nombre": "Rafael Simões",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#21",
+    "Nombre": "Manuel Picão",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#22",
+    "Nombre": "David Wallis",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#23",
+    "Nombre": "Nicolas Martins",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#24",
+    "Nombre": "Duarte Torgal",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#25",
+    "Nombre": "Martim Belo",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#26",
+    "Nombre": "Steevy Cerqueira",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#27",
+    "Nombre": "José Madeira",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#28",
+    "Nombre": "Francisco Fernandes",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#29",
+    "Nombre": "Diogo Hasse Ferreira",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#30",
+    "Nombre": "Anthony Alves",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#31",
+    "Nombre": "Francisco Bruno",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#32",
+    "Nombre": "António Santos",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#33",
+    "Nombre": "David Costa",
+    "Posición": "FW"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "_id": "Irlanda",
+  "Posición": "Primero",
+  "Nombre": "Andy Farrell",
+  "País Coach": "Inglaterra"
+},
+{
+  "_id": "Sudáfrica",
+  "Posición": "Segundo",
+  "Nombre": "Jacques Nienaber",
+  "País Coach": "Sudáfrica"
+},
+{
+  "_id": "Escocia",
+  "Posición": "Tercero",
+  "Nombre": "Gregor Townsend",
+  "País Coach": "Escocia"
+},
+{
+  "_id": "Tonga",
+  "Posición": "Cuarta",
+  "Nombre": "Toutai Kefu",
+  "País Coach": "Tonga"
+},
+{
+  "_id": "Rumania",
+  "Posición": "Quinta",
+  "Nombre": "Eugen Apjok",
+  "País Coach": "Rumania"
+}

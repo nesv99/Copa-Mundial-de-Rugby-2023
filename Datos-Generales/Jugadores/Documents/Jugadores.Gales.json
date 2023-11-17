@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "#01",
+    "Nombre": "Dan Biggar",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#02",
+    "Nombre": "Sam Costelow",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#03",
+    "Nombre": "Gareth Anscombe",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#04",
+    "Nombre": "Liam Williams",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#05",
+    "Nombre": "Leigh Halfpenny",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#06",
+    "Nombre": "Gareth Davies",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#07",
+    "Nombre": "Tomos Williams",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#08",
+    "Nombre": "Johnny Williams",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#09",
+    "Nombre": "Mason Grady",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#10",
+    "Nombre": "George North",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#11",
+    "Nombre": "Nick Tompkins",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#12",
+    "Nombre": "Louis Rees-Zammit",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#13",
+    "Nombre": "Rio Dyer",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#14",
+    "Nombre": "Josh Adams",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#15",
+    "Nombre": "Ryan Elias",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#16",
+    "Nombre": "Elliot Dee",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#17",
+    "Nombre": "Dewi Lake",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#18",
+    "Nombre": "Aaron Wainwright",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#19",
+    "Nombre": "Jac Morgan",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#20",
+    "Nombre": "Dan Lydiate",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#21",
+    "Nombre": "Tommy Reffell",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#22",
+    "Nombre": "Taine Basham",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#23",
+    "Nombre": "Christ Tshiunza",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#24",
+    "Nombre": "Adam Beard",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#25",
+    "Nombre": "Dafydd Jenkins",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#26",
+    "Nombre": "Will Rowlands",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#27",
+    "Nombre": "Dillon Lewis",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#28",
+    "Nombre": "Nicky Smith",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#29",
+    "Nombre": "Gareth Thomas",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#30",
+    "Nombre": "Tomas Francis",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#31",
+    "Nombre": "Corey Domachowski",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#32",
+    "Nombre": "Henry Thomas",
+    "Posición": "FW"
+  }
+]

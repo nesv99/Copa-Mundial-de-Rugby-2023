@@ -1,0 +1,49 @@
+
+{
+  "_id": "Cuartos de final - Partido 1",
+    "Local": "Gales",
+    "Resultado": "17-29",
+    "Visitante": "Argentina"
+}
+{
+  "_id": "Cuartos de final - Partido 2",
+    "Local": "Irlanda",
+    "Resultado": "24-28",
+    "Visitante": "Nueva Zelanda"
+}
+{
+  "_id": "Cuartos de final - Partido 3",
+    "Local": "Inglaterra",
+    "Resultado": "30-24",
+    "Visitante": "Fiyi"
+}
+{
+  "_id": "Cuartos de final - Partido 4",
+    "Local": "Francia",
+    "Resultado": "28-29",
+    "Visitante": "Sudráfica"
+}
+{
+  "_id": "Semifinales - Partido 1",
+    "Local": "Argentina",
+    "Resultado": "6-44",
+    "Visitante": "Nueva Zelanda"
+}
+{
+  "_id": "Semifinales - Partido 2",
+    "Local": "Inglaterra",
+    "Resultado": "15-16",
+    "Visitante": "Sudáfrica"
+}
+{
+  "_id": "Tercer lugar",
+    "Local": "Argentina",
+    "Resultado": "23-26",
+    "Visitante": "Inglaterra"
+}
+{
+  "_id": "Final",
+    "Local": "Nueva Zelanda",
+    "Resultado": "11-12",
+    "Visitante": "Sudáfrica"
+}

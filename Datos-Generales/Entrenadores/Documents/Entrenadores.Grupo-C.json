@@ -1,0 +1,39 @@
+{
+  "_id": "Grupo C",
+  "___": "COD_PAIS|    Nombre DT    |COD_NOMBRE",
+  "001": "   WAL  |Warren Gatland   |    NZL   ",
+  "002": "   FIJ  |John McKee       |    NZL   ",
+  "003": "   AUS  |Dave Rennie      |    NZL   ",
+  "004": "   POR  |Patrice Lagisquet|    FRA   ",
+  "005": "   GEO  |Levan Maisashvili|    GEO   "
+}
+{
+  "_id": "Gales",
+  "Posición": "Primero",
+  "Nombre": "Warren Gatland",
+  "País Coach": "Nueva Zelanda"
+},
+{
+  "_id": "Fiji",
+  "Posición": "Segundo",
+  "Nombre": "John McKee",
+  "País Coach": "Fiji"
+},
+{
+  "_id": "Ausralia",
+  "Posición": "Tercero",
+  "Nombre": "Dave Rennie",
+  "País Coach": "Nueva Zelanda"
+},
+{
+  "_id": "Portugal",
+  "Posición": "Cuarto",
+  "Nombre": "Patrice Lagisquet",
+  "País Coach": "Francia"
+},
+{
+  "_id": "Georgia",
+  "Posición": "Quinto",
+  "Nombre": "Levan Maisashvili",
+  "País Coach": "Georgia"
+}

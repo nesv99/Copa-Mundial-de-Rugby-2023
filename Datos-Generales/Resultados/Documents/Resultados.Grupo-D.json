@@ -1,0 +1,60 @@
+{
+  "_id": "Partido 1",
+    "Local": "Inglaterra",
+    "Resultado": "27-10",
+    "Visitante": "Argentina"
+}
+{
+  "_id": "Partido 2",
+    "Local": "Japón",
+    "Resultado": "42-12",
+    "Visitante": "Chile"
+}
+{
+  "_id": "Partido 3",
+    "Local": "Samoa",
+    "Resultado": "43-10",
+    "Visitante": "Chile"
+}
+{
+  "_id": "Partido 4",
+    "Local": "Inglaterra",
+    "Resultado": "34-12",
+    "Visitante": "Japón"
+}
+{
+  "_id": "Partido 5",
+    "Local": "Argentina",
+    "Resultado": "19-10",
+    "Visitante": "Sampa"
+}
+{
+  "_id": "Partido 6",
+    "Local": "Inglaterra",
+    "Resultado": "71-0",
+    "Visitante": "Chile"
+}
+{
+  "_id": "Partido 7",
+    "Local": "Japón",
+    "Resultado": "28-22",
+    "Visitante": "Samoa"
+}
+{
+  "_id": "Partido 8",
+    "Local": "Argentina",
+    "Resultado": "59-5",
+    "Visitante": "Chile"
+}
+{
+  "_id": "Partido 9",
+    "Local": "Inglaterra",
+    "Resultado": "18-17",
+    "Visitante": "Samoa"
+}
+{
+  "_id": "Partido 10",
+    "Local": "Japón",
+    "Resultado": "27-39",
+    "Visitante": "Argentina"
+}

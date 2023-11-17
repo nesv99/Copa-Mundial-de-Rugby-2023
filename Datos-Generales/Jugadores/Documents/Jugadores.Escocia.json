@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "#01",
+    "Nombre": "Ben Healy",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#02",
+    "Nombre": "Finn Russell",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#03",
+    "Nombre": "Blair Kinghorn",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#04",
+    "Nombre": "Ollie Smith",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#05",
+    "Nombre": "Ben White",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#06",
+    "Nombre": "George Horne",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#07",
+    "Nombre": "Ali Price",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#08",
+    "Nombre": "Cameron Redpath",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#09",
+    "Nombre": "Huw Jones",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#10",
+    "Nombre": "Sione Tuipulotu",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#11",
+    "Nombre": "Chris Harris",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#12",
+    "Nombre": "Kyle Steyn",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#13",
+    "Nombre": "Darcy Graham",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#14",
+    "Nombre": "Duhan van der Merwe",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#15",
+    "Nombre": "George Turner",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#16",
+    "Nombre": "Ewan Ashman",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#17",
+    "Nombre": "Johnny Matthews",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#18",
+    "Nombre": "Matt Fagerson",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#19",
+    "Nombre": "Jack Dempsey",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#20",
+    "Nombre": "Jamie Ritchie",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#21",
+    "Nombre": "Hamish Watson",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#22",
+    "Nombre": "Rory Darge",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#23",
+    "Nombre": "Luke Crosbie",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#24",
+    "Nombre": "Sam Skinner",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#25",
+    "Nombre": "Grant Gilchrist",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#26",
+    "Nombre": "Scott Cummings",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#27",
+    "Nombre": "Richie Gray",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#28",
+    "Nombre": "Javan Sebastian",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#29",
+    "Nombre": "Rory Sutherland",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#30",
+    "Nombre": "Pierre Schoeman",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#31",
+    "Nombre": "Zander Fagerson",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#32",
+    "Nombre": "WP Nel",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#33",
+    "Nombre": "Jamie Bhatti",
+    "Posición": "FW"
+  }
+]

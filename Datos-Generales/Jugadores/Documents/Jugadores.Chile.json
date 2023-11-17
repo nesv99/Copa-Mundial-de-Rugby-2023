@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "#01",
+    "Nombre": "Lukas Carvallo",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#02",
+    "Nombre": "Marcelo Torrealba",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#03",
+    "Nombre": "Nicolas Herreros",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#04",
+    "Nombre": "Matias Garafulic",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#05",
+    "Nombre": "José Ignacio Larenas",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#06",
+    "Nombre": "Domingo Saavedra",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#07",
+    "Nombre": "Rodrigo Fernandez",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#08",
+    "Nombre": "Francisco Urroz",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#09",
+    "Nombre": "Benjamin Videla",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#10",
+    "Nombre": "Inaki Ayarza",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#11",
+    "Nombre": "Santiago Videla",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#12",
+    "Nombre": "Pablo Casas",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#13",
+    "Nombre": "Cristobal Game",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#14",
+    "Nombre": "Franco Velarde",
+    "Posición": "BK"
+  },
+  {
+    "_id": "#15",
+    "Nombre": "Tomas Dussaillant",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#16",
+    "Nombre": "Augusto Bohme",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#17",
+    "Nombre": "Diego Escobar",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#18",
+    "Nombre": "Raimundo Martínez",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#19",
+    "Nombre": "Martín Sigren",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#20",
+    "Nombre": "Alfonso Escobar",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#21",
+    "Nombre": "Thomas Orchard",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#22",
+    "Nombre": "Ignacio Silva",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#23",
+    "Nombre": "Clemente Saavedra",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#24",
+    "Nombre": "Augusto Sarmiento",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#25",
+    "Nombre": "Pablo Huete",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#26",
+    "Nombre": "Javier Eissmann",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#27",
+    "Nombre": "Santiago Pedrero",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#28",
+    "Nombre": "Salvador Lues",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#29",
+    "Nombre": "Esteban Inostroza",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#30",
+    "Nombre": "Inaki Gurruchaga",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#31",
+    "Nombre": "Javier Carrasco",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#32",
+    "Nombre": "Vittorio Lastra",
+    "Posición": "FW"
+  },
+  {
+    "_id": "#33",
+    "Nombre": "Matias Dittus",
+    "Posición": "FW"
+  }
+]

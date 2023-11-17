@@ -1,0 +1,60 @@
+{
+  "_id": "Partido 1",
+    "Local": "Australia",
+    "Resultado": "35-15",
+    "Visitante": "Georgia"
+}
+{
+  "_id": "Partido 2",
+    "Local": "Gales",
+    "Resultado": "32-26",
+    "Visitante": "Fiyi"
+}
+{
+  "_id": "Partido 3",
+    "Local": "Gales",
+    "Resultado": "28-8",
+    "Visitante": "Portugal"
+}
+{
+  "_id": "Partido 4",
+    "Local": "Australia",
+    "Resultado": "15-22",
+    "Visitante": "Fiyi"
+}
+{
+  "_id": "Partido 5",
+    "Local": "Georgia",
+    "Resultado": "18-18",
+    "Visitante": "Portugal"
+}
+{
+  "_id": "Partido 6",
+    "Local": "Gales",
+    "Resultado": "40-6",
+    "Visitante": "AustraliA"
+}
+{
+  "_id": "Partido 7",
+    "Local": "Fiyi",
+    "Resultado": "17-12",
+    "Visitante": "Georgia"
+}
+{
+  "_id": "Partido 8",
+    "Local": "Australia",
+    "Resultado": "34-14",
+    "Visitante": "Portugal"
+}
+{
+  "_id": "Partido 9",
+    "Local": "Gales",
+    "Resultado": "43-19",
+    "Visitante": "Georgia"
+}
+{
+  "_id": "Partido 10",
+    "Local": "Fiyi",
+    "Resultado": "23-24",
+    "Visitante": "Portugal"
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "Francia",
+  "Posición": "Primero",
+  "Nombre": "Fabien Galthié",
+  "Pais Coach": "Frsncia"
+},
+{
+  "_id": "Nueva Zelanda",
+  "Posición": "Segundo",
+  "Nombre": "Ian Foster",
+  "País Coach": "Nuevz Zelanda"
+},
+{
+  "_id": "Italia",
+  "Posición": "Tercero",
+  "Nombre": "Kieran Crowley",
+  "País Coach": "Nueva Zelanda"
+},
+{
+  "_id": "Uruguay",
+  "Posición": "Cuarto",
+  "Nombre": "Esteban Meneses",
+  "País Coach": "Argentina"
+},
+{
+  "_id": "Namibia",
+  "Posición": "Quinto",
+  "Nombre": "Allister Coetzee",
+  "País Coach": "Sudáfrica"
+}
