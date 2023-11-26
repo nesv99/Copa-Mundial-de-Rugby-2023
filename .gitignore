@@ -1,0 +1,4 @@
+# Archivos y carpetas que se deben ignorar en el repositorio
+
+/config/
+/resultados/
